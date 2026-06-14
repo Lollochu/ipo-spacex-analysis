@@ -16,6 +16,10 @@ The script downloads historical price and fundamental data via [yfinance](https:
 - **Predictive regression model** – P/S ratio & IPO Pop vs. drawdown risk, applied to a SpaceX forecast.
 - **Ornstein-Uhlenbeck simulation** – stochastic mean-reversion model for how SpaceX's P/S multiple could decay post-listing.
 
+  ## Report
+
+A full written analysis of the results (charts, tables, commentary) is available here: [SpaceX_IPO_Analysis_Report.pdf](docs/SpaceX_IPO_Analysis_Report.pdf)
+
 ## Project structure
 
 ipo-spacex-analysis/
