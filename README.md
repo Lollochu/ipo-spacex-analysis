@@ -48,6 +48,23 @@ All outputs (CSV files and PNG charts) are written to `ipo_analysis_output/`, cr
   - yfinance
   - scikit-learn
 
+## Sample Output
+
+**Post-IPO price trajectories (rebased to 100):**
+
+![Normalised Prices](examples/normalised_prices.png)
+
+**Max drawdown stress test (first 24 months post-IPO):**
+
+![Max Drawdown](examples/max_drawdown.png)
+
+**P/S ratio compression over time:**
+
+![P/S Compression](examples/ps_compression.png)
+
+**Ornstein-Uhlenbeck simulation of SpaceX's implied multiple:**
+
+![OU Simulation](examples/ou_simulation.png)
 ## Installation
 
 ```bash
