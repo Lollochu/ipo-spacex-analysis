@@ -18,8 +18,7 @@ The script downloads historical price and fundamental data via [yfinance](https:
 
   ## Report
 
-A full written analysis of the results (charts, tables, commentary) is available here: [SpaceX_IPO_Analysis_Report.pdf](docs/SpaceX_IPO_Analysis_Report.pdf)
-
+A full written analysis of the results (charts, tables, commentary) is available here: [SpaceX_IPO_Analysis_Report.pdf](SpaceX_IPO_Analysis_Report.pdf)
 ## Project structure
 
 ipo-spacex-analysis/
