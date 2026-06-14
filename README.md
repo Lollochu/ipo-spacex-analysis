@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 # Post-IPO Performance Analysis & SpaceX Valuation Proxy
 
 A quantitative Python toolkit that analyses the post-listing performance of twelve high-profile 2019-2023 tech/"new economy" IPOs (Rivian, Palantir, Snowflake, Rocket Lab, Arm, Mobileye, Coinbase, AST SpaceMobile, Virgin Galactic, Planet Labs, BlackSky, Redwire) and uses them as historical proxies to model the risk profile of an anticipated **SpaceX (SPCX)** public listing.
